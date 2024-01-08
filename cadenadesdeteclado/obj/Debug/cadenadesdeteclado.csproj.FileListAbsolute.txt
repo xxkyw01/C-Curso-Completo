@@ -1,0 +1,7 @@
+C:\c#\cadenadesdeteclado\cadenadesdeteclado\bin\Debug\cadenadesdeteclado.exe.config
+C:\c#\cadenadesdeteclado\cadenadesdeteclado\bin\Debug\cadenadesdeteclado.exe
+C:\c#\cadenadesdeteclado\cadenadesdeteclado\bin\Debug\cadenadesdeteclado.pdb
+C:\c#\cadenadesdeteclado\cadenadesdeteclado\obj\Debug\cadenadesdeteclado.csproj.AssemblyReference.cache
+C:\c#\cadenadesdeteclado\cadenadesdeteclado\obj\Debug\cadenadesdeteclado.csproj.CoreCompileInputs.cache
+C:\c#\cadenadesdeteclado\cadenadesdeteclado\obj\Debug\cadenadesdeteclado.exe
+C:\c#\cadenadesdeteclado\cadenadesdeteclado\obj\Debug\cadenadesdeteclado.pdb
