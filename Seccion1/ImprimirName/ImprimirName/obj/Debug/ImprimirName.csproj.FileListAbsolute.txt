@@ -1,7 +1,0 @@
-C:\Users\tzuyu\Documents\c#\ImprimirName\ImprimirName\bin\Debug\ImprimirName.exe.config
-C:\Users\tzuyu\Documents\c#\ImprimirName\ImprimirName\bin\Debug\ImprimirName.exe
-C:\Users\tzuyu\Documents\c#\ImprimirName\ImprimirName\bin\Debug\ImprimirName.pdb
-C:\Users\tzuyu\Documents\c#\ImprimirName\ImprimirName\obj\Debug\ImprimirName.csproj.AssemblyReference.cache
-C:\Users\tzuyu\Documents\c#\ImprimirName\ImprimirName\obj\Debug\ImprimirName.csproj.CoreCompileInputs.cache
-C:\Users\tzuyu\Documents\c#\ImprimirName\ImprimirName\obj\Debug\ImprimirName.exe
-C:\Users\tzuyu\Documents\c#\ImprimirName\ImprimirName\obj\Debug\ImprimirName.pdb
